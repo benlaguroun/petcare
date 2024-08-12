@@ -1,0 +1,29 @@
+.products, .blog {
+  padding: 50px 20px;
+  text-align: center;
+}
+
+.product-list, .blog-list {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.product-list .product-card, .blog-list .blog-card {
+  flex: 1 1 calc(33.333% - 40px);
+  margin: 10px;
+  box-sizing: border-box;
+}
+
+/* Responsive styles */
+@media (max-width: 768px) {
+  .product-list .product-card, .blog-list .blog-card {
+    flex: 1 1 calc(50% - 40px);
+  }
+}
+
+@media (max-width: 480px) {
+  .product-list .product-card, .blog-list .blog-card {
+    flex: 1 1 calc(100% - 40px);
+  }
+}

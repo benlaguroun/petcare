@@ -1,0 +1,92 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Premium Dog Food",
+      "description": "High quality dog food for all breeds.",
+      "price": 50,
+      "category": "Dog Food",
+      "image": "/images/dog-food.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Cat Toy",
+      "description": "Fun toy for cats.",
+      "price": 15,
+      "category": "Cat Toys",
+      "image": "/images/cat-toy.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Small Animal Bedding",
+      "description": "Soft and cozy bedding for small animals.",
+      "price": 20,
+      "category": "Small Animal Supplies",
+      "image": "/images/small-animal-bedding.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Fish Tank Kit",
+      "description": "Complete aquarium kit for beginners.",
+      "price": 80,
+      "category": "Fish Supplies",
+      "image": "/images/fish-tank-kit.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Small Animal Bedding",
+      "description": "Soft and cozy bedding for small animals.",
+      "price": 20,
+      "category": "Small Animal Supplies",
+      "image": "/images/small-animal-bedding.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Fish Tank Kit",
+      "description": "Complete aquarium kit for beginners.",
+      "price": 80,
+      "category": "Fish Supplies",
+      "image": "/images/fish-tank-kit.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Premium Dog Food",
+      "description": "High quality dog food for all breeds.",
+      "price": 50,
+      "category": "Dog Food",
+      "image": "/images/dog-food.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Cat Toy",
+      "description": "Fun toy for cats.",
+      "price": 15,
+      "category": "Cat Toys",
+      "image": "/images/cat-toy.jpg"
+    }
+  ],
+  
+  "blogPosts": [
+    {
+      "id": 1,
+      "title": "Best Dog Foods in 2024",
+      "excerpt": "Check out the best dog foods for 2024 to keep your pet healthy and happy.",
+      "image": "/images/blog1.jpg",
+      "link": "/blog/best-dog-foods-2024"
+    },
+    {
+      "id": 2,
+      "title": "Top 10 Cat Toys",
+      "excerpt": "Here are the top 10 cat toys your feline friend will love.",
+      "image": "/images/blog2.jpg",
+      "link": "/blog/top-10-cat-toys"
+    },
+    {
+      "id": 3,
+      "title": "Best Dog Foods in 2024",
+      "excerpt": "Check out the best dog foods for 2024 to keep your pet healthy and happy.",
+      "image": "/images/blog1.jpg",
+      "link": "/blog/best-dog-foods-2024"
+    }
+  ]
+}

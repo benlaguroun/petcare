@@ -1,0 +1,29 @@
+.product-list {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  
+  .product-card {
+    border: 1px solid #ddd;
+    padding: 16px;
+    margin: 16px;
+    width: calc(33.333% - 64px);
+    box-sizing: border-box;
+  }
+  
+  .product-card img {
+    max-width: 100%;
+  }
+  
+  .cart-item {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 8px 0;
+  }
+  
+  .cart-item img {
+    max-width: 50px;
+    margin-right: 16px;
+  }
+  

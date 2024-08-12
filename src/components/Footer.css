@@ -1,0 +1,30 @@
+.footer {
+  background-color: #232323;
+  color: #fff;
+  padding: 40px 0;
+}
+
+.footer a,
+.footer .link-button {
+  color: #ff6f61;
+  text-decoration: none;
+  cursor: pointer;
+  background: transparent;
+}
+
+.footer a:hover,
+.footer .link-button:hover {
+  color: #ff3b2f;
+}
+
+.footer h5 {
+  color: #ff6f61;
+}
+
+.footer ul li {
+  margin-bottom: 10px;
+}
+
+.footer ul li:last-child {
+  margin-bottom: 0;
+}

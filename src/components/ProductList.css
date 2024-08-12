@@ -1,0 +1,48 @@
+.product-list-section {
+  padding: 40px 20px;
+  background-color: #f8f9fa;
+}
+
+.product-list-section h2 {
+  text-align: center;
+  margin-bottom: 40px;
+  font-size: 2em;
+  color: #333;
+}
+
+.card {
+  border: 1px solid #ddd;
+  transition: transform 0.2s;
+}
+
+.card:hover {
+  transform: scale(1.05);
+}
+
+.card-img-top {
+  max-width: 100%;
+  height: auto;
+  border-radius: 8px 8px 0 0;
+}
+
+.card-title {
+  font-size: 1.5em;
+  margin: 0.5em 0;
+  color: #333;
+}
+
+.card-text.price {
+  font-size: 1.2em;
+  color: #333;
+  margin-bottom: 20px;
+}
+
+.btn-primary {
+  background-color: #4CAF50;
+  border: none;
+}
+
+.btn-primary:hover {
+  background-color: #45a049;
+}
+
